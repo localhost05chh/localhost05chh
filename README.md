@@ -3,8 +3,8 @@
 <h3 align="center">Hi! My name is ChoiHyunHo </h3>
 
 <p align="center">
-  <a href="programer.chh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jh940412@gmail.com)](mailto:programer.chh@gmail.com)"/></a>&nbsp
-<a href="https://www.notion.so/9d49f9b2ddc34f0e8345835a77c92cab"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
+  <a href="programer.chh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:programer.chh@gmail.com)](mailto:programer.chh@gmail.com)"/></a>&nbsp
+<a href="https://jade-crustacean-aef.notion.site/9d49f9b2ddc34f0e8345835a77c92cab?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></a>&nbsp</p>
 
 <h4 align="center"> </h4>
 <br>
