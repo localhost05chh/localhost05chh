@@ -28,5 +28,5 @@
   
   
 <h2 align="center"> ✨My Github Stats✨ </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=localhost05chh&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhost05chh&layout=compact"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhost05chh&layout=compact"/>
 </p>
