@@ -5,7 +5,7 @@
   <a href="programer.chh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:programer.chh@gmail.com)](mailto:programer.chh@gmail.com)"/>
   </a>&nbsp
-  <a href="https://dev-hyun.notion.site/ac0eda182a24408994db0b343c353826?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/>
+  <a href="[https://dev-hyun.notion.site/ac0eda182a24408994db0b343c353826?pvs=4](https://www.notion.so/9d49f9b2ddc34f0e8345835a77c92cab)"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/>
   </a>&nbsp
 </p>
 
