@@ -28,4 +28,4 @@
   
   
 <h2 align="center"> ✨My Github Stats✨ </h2>
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=localhost05chh&langs_count=10&layout=compact&theme=dark)](https://github.com/localhost05chh/localhost05chh)﻿
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=localhost05chh&show_icons=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=localhost05chh&layout=compact"></p>
