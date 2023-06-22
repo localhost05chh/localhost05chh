@@ -5,7 +5,7 @@
 👶 2005.03.01 <br>
 📞 010-3491-3737 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:programer.chh@gmail.com)](mailto:programer.chh@gmail.com) <span><a href="https://www.notion.so/febcbd69d90b49c3b44e3593e25612ba"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:programer.chh@gmail.com)](mailto:programer.chh@gmail.com) <span><a href="https://jade-crustacean-aef.notion.site/9d49f9b2ddc34f0e8345835a77c92cab?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
